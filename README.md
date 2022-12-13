@@ -29,7 +29,8 @@ pip install -r requirements.txt
 ## Models
 
 ## Tutorial
-Coming soon!
+**Coming soon!**
 
 
 ## Citation
+If you utilise our findings, methods, or results, please consider citing the following paper.
