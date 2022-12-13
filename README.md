@@ -26,8 +26,19 @@ hdbscan : 0.8.28
 pip install -r requirements.txt
 ```
 ## Result
-**Nature Materials**
+
+**Topic Map of Materials Science**
+
+![](./image/embd.png)
+
+**National Interests of Materials Science**
+
+![](./image/nation.png)
+
+**Heatmap of Nature Materials**
+
 ![](./image/journal.png)
+
 ## Models
 
 ## Tutorial
