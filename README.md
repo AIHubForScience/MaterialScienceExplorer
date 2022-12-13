@@ -25,13 +25,19 @@ hdbscan : 0.8.28
 ```bash
 pip install -r requirements.txt
 ```
-## Document embedding and clustering
+## Run
+
+```bash
+python code/train.py -dataset <dataset>
+```
+
+
+
+## Visualization
 
 **Topic Map of Materials Science**
 
 ![](./image/embd.png)
-
-## Result
 
 **National Interests of Materials Science**
 
