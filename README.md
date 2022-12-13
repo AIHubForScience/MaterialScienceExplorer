@@ -8,7 +8,7 @@ Implementation of our paper "**Text-mined Academic Interests in Materials Scienc
 This study is a successful example of applying natural language processing and unsupervised learning for materials science trend analysis.
 We applied the document embedding and density-based clustering to materials science literature.
 We obtained the comprehensive understanding of scientific topics in materials science without any insertion of expertise.
-We quantified the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
+We defined the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
 
 ## Dataset
 Dataset used in this study is available here, and unzip in your own directory.
@@ -25,11 +25,13 @@ hdbscan : 0.8.28
 ```bash
 pip install -r requirements.txt
 ```
-## Result
+## Document embedding and clustering
 
 **Topic Map of Materials Science**
 
 ![](./image/embd.png)
+
+## Result
 
 **National Interests of Materials Science**
 
@@ -39,7 +41,6 @@ pip install -r requirements.txt
 
 ![](./image/journal.png)
 
-## Models
 
 ## Tutorial
 **Coming soon!**
