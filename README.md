@@ -10,13 +10,22 @@ We applied the document embedding and density-based clustering to materials scie
 We obtained the comprehensive understanding of scientific topics in materials science without any insertion of expertise.
 We quantified the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
 
-# Dataset
+## Dataset
 
+## Requirements
+Our experiment setting is as follows:
+gensim : 4.1.2
+spacy : 3.2.4
+hdbscan : 0.8.28
 
-# Models
+```bash
+pip install -r requirements.txt
+```
 
-# Tutorial
+## Models
 
-# Results
+## Tutorial
 
-# Citation
+## Results
+
+## Citation
