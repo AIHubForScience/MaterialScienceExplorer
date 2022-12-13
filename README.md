@@ -35,11 +35,11 @@ pip install -r requirements.txt
 
 **National Interests of Materials Science**
 
-![](./image/nation.png)
+
 
 **Heatmap of Nature Materials**
 
-![](./image/journal.png)
+
 
 
 ## Tutorial
@@ -48,4 +48,4 @@ pip install -r requirements.txt
 
 ## Citation
 If you utilise our findings, methods, or results, please consider citing the following paper.
-- Choi, J., & Lee, B. (2023). Text-mined academic interests in materials science [(Link)]()
+- Choi, J., & Lee, B.* (2023). Text-mined academic interests in materials science [(Link)]()
