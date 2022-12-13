@@ -11,11 +11,15 @@ We obtained the comprehensive understanding of scientific topics in materials sc
 We quantified the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
 
 ## Dataset
+Dataset used in this study is available here, and unzip in your own directory.
 
 ## Requirements
 Our experiment setting is as follows:
+
 gensim : 4.1.2
+
 spacy : 3.2.4
+
 hdbscan : 0.8.28
 
 ```bash
@@ -25,7 +29,7 @@ pip install -r requirements.txt
 ## Models
 
 ## Tutorial
+Coming soon!
 
-## Results
 
 ## Citation
