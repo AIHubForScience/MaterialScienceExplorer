@@ -17,11 +17,11 @@ Dataset used in this study is available [here](Link), and unzip in your own dire
 ## Requirements
 Our experiment setting is as follows:
 
-gensim : 4.1.2
+- gensim : 4.1.2
 
-spacy : 3.2.4
+- spacy : 3.2.4
 
-hdbscan : 0.8.28
+- hdbscan : 0.8.28
 
 ```bash
 pip install -r requirements.txt
