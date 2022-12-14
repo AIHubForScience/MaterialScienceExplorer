@@ -16,7 +16,7 @@ Dataset used in this study is available [here](Link), and unzip in your own dire
 
 - mat_abstract.txt : Abstract of materials science literature used in this study, which is published between 2017 and 2021.
 
-- mat_bib.txt : Bibliographic information of the collected papers.
+- mat_bib.txt : Bibliographic information of the collected papers, of which columns are doi, title, journal, year.
 
 ## Requirements
 Our experiment setting is as follows:
