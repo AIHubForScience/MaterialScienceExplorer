@@ -12,7 +12,7 @@ This repository contains the source code and dataset for the following publicati
 - :page_facing_up: [Text-mined academic interests in materials science](Link) accepted in .
 
 ## Dataset
-Dataset used in this study is available here, and unzip in your own directory.
+Dataset used in this study is available [here](Link), and unzip in your own directory.
 
 ## Requirements
 Our experiment setting is as follows:
