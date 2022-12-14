@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python code/train.py -dataset <dataset>
+python code/run.py -dataset <dataset>
 ```
 
 
