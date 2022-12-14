@@ -3,12 +3,13 @@
 
 </p>
 
-Implementation of our paper "**Text-mined Academic Interests in Materials Science**".  
 
-This study is a successful example of applying natural language processing and unsupervised learning for materials science trend analysis.
+This study is a successful example :star2: of applying natural language processing and unsupervised learning for materials science trend analysis. 
 We applied the document embedding and density-based clustering to materials science literature.
 We obtained the comprehensive understanding of scientific topics in materials science without any insertion of expertise.
 We defined the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
+This repository contains the source code and dataset for the following publication:
+- :page_facing_up: [Text-mined academic interests in materials science](Link) accepted in .
 
 ## Dataset
 Dataset used in this study is available here, and unzip in your own directory.
