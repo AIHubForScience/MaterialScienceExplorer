@@ -14,9 +14,9 @@ This repository contains the source code and dataset for the following publicati
 ## Dataset
 Dataset used in this study is available [here](Link), and unzip in your own directory.
 
-- mat_abstract.txt : Abstract of materials science literature used in this study, which is published between 2017 and 2021.
+- temp_mat_abstract.txt : Sample of the abstract of materials science literature used in this study, which is published between 2017 and 2021.
 
-- mat_bib.txt : Bibliographic information of the collected papers, of which columns are doi, title, journal, year.
+- temp_mat_bib.txt : Sample of the bibliographic information of the collected papers, of which columns are doi, title, journal, year.
 
 ## Requirements
 Our experiment setting is as follows:
