@@ -48,7 +48,7 @@ python code/run.py -dataset <dataset>
 
 
 
-**Text-mined academic interests of *Nature Materials* **
+**Text-mined academic interests of *Nature Materials*, a randomly selected journal**
 
 
 
