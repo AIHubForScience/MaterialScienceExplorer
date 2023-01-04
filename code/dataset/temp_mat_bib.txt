@@ -1,0 +1,11 @@
+idx	title	journal	year
+5015	Very high thermoelectric power factor near magic angle in twisted bilayer graphene	2D MATERIALS	2021
+5016	Electronic modification in graphdiyne for future electrocatalytic applications	2D MATERIALS	2021
+5017	Gradient rhenium doping enabled tunable anisotropic valleytronic material based on monolayer molybdenum disulfide	2D MATERIALS	2021
+5018	Misalignment instability in magic-angle twisted bilayer graphene on hexagonal boron nitride	2D MATERIALS	2021
+5019	Strain engineering in monolayer WS(2)and WS(2)nanocomposites	2D MATERIALS	2020
+5020	New insights in the lattice dynamics of monolayers, bilayers, and trilayers of WSe2 and unambiguous determination of few-layer-flakes' thickness	2D MATERIALS	2020
+5021	Scalable synthesis of multilayer h-BN on AlN by metalorganic vapor phase epitaxy: nucleation and growth mechanism	2D MATERIALS	2020
+5022	2D MoS2 nanopores: ionic current blockade height for clustering DNA events	2D MATERIALS	2019
+5023	Molecular collapse in monolayer graphene	2D MATERIALS	2019
+5024	Alternative stacking sequences in hexagonal boron nitride	2D MATERIALS	2019
