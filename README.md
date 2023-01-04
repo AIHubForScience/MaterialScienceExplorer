@@ -48,7 +48,7 @@ python code/run.py -dataset <dataset>
 
 
 
-**Heatmap of Nature Materials**
+**Text-mined academic interests of *Nature Materials* **
 
 
 
