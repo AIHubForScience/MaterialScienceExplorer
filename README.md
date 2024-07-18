@@ -1,5 +1,5 @@
 <h1 align="center">MaterialsScienceExplorer</h1>
-<h3 align="center">Text-mined Academic Interests in Materials Science</h3>
+<h3 align="center">Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing</h3>
 
 </p>
 
@@ -9,10 +9,10 @@ We applied the document embedding and density-based clustering to materials scie
 We obtained the comprehensive understanding of scientific topics in materials science without any insertion of expertise.
 We defined the topic relevance of each paper and identified main topics and academic interests of organisations in a quantitative and time-aware manner.
 This repository contains the source code and dataset for the following publication:
-- :page_facing_up: [Text-mined academic interests in materials science](Link) .
+- :page_facing_up: [Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing](https://pubs.acs.org/doi/10.1021/acsami.3c12301) .
 
 ## Dataset
-Dataset used in this study is available [here](Link), and unzip in your own directory.
+Dataset used in this study is available, and unzip in your own directory.
 
 - temp_mat_abstract.txt : Sample of the abstract of materials science literature used in this study, which is published between 2017 and 2021.
 
@@ -59,4 +59,4 @@ python code/run.py -dataset <dataset>
 
 ## Citation
 If you utilise our findings, methods, or results, please consider citing the following paper.
-- Choi, J., & Lee, B.* (2023). Text-mined academic interests in materials science [(Link)]()
+- Choi, J., & Lee, B.* (2024). Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing (https://pubs.acs.org/doi/10.1021/acsami.3c12301)
