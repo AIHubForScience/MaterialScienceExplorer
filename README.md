@@ -59,4 +59,4 @@ python code/run.py -dataset <dataset>
 
 ## Citation
 If you utilise our findings, methods, or results, please consider citing the following paper.
-- Choi, J., & Lee, B.* (2024). Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing (https://pubs.acs.org/doi/10.1021/acsami.3c12301)
+- Choi, J., & Lee, B.* (2024). Quantitative Topic Analysis of Materials Science Literature Using Natural Language Processing [Here](https://pubs.acs.org/doi/10.1021/acsami.3c12301)
